@@ -1,2 +1,4 @@
-*00001
+*.data-00000-of-00001
+training\ckpt-1.data-00000-of-00001
+training\ckpt-2.data-00000-of-00001
 events.*
