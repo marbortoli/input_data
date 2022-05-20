@@ -3,3 +3,4 @@ training/ckpt-2.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
 training/ckpt-3.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
 training/ckpt-4.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
 training/ckpt-5.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+training/ckpt-6.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
